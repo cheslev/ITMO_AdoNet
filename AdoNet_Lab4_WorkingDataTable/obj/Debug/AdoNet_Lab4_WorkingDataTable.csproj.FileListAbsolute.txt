@@ -1,0 +1,8 @@
+E:\ITMO\Ado_Net\AdoNet_Lab4_WorkingDataTable\bin\Debug\AdoNet_Lab4_WorkingDataTable.exe.config
+E:\ITMO\Ado_Net\AdoNet_Lab4_WorkingDataTable\bin\Debug\AdoNet_Lab4_WorkingDataTable.exe
+E:\ITMO\Ado_Net\AdoNet_Lab4_WorkingDataTable\bin\Debug\AdoNet_Lab4_WorkingDataTable.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab4_WorkingDataTable\obj\Debug\AdoNet_Lab4_WorkingDataTable.Form1.resources
+E:\ITMO\Ado_Net\AdoNet_Lab4_WorkingDataTable\obj\Debug\AdoNet_Lab4_WorkingDataTable.Properties.Resources.resources
+E:\ITMO\Ado_Net\AdoNet_Lab4_WorkingDataTable\obj\Debug\AdoNet_Lab4_WorkingDataTable.csproj.GenerateResource.cache
+E:\ITMO\Ado_Net\AdoNet_Lab4_WorkingDataTable\obj\Debug\AdoNet_Lab4_WorkingDataTable.exe
+E:\ITMO\Ado_Net\AdoNet_Lab4_WorkingDataTable\obj\Debug\AdoNet_Lab4_WorkingDataTable.pdb

@@ -1,0 +1,9 @@
+E:\ITMO\Ado_Net\AdoNet_Lab6_ LoadDataSetXml\bin\Debug\AdoNet_Lab6_ LoadDataSetXml.exe.config
+E:\ITMO\Ado_Net\AdoNet_Lab6_ LoadDataSetXml\bin\Debug\AdoNet_Lab6_ LoadDataSetXml.exe
+E:\ITMO\Ado_Net\AdoNet_Lab6_ LoadDataSetXml\bin\Debug\AdoNet_Lab6_ LoadDataSetXml.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab6_ LoadDataSetXml\obj\Debug\AdoNet_Lab6__LoadDataSetXml.Form1.resources
+E:\ITMO\Ado_Net\AdoNet_Lab6_ LoadDataSetXml\obj\Debug\AdoNet_Lab6__LoadDataSetXml.Properties.Resources.resources
+E:\ITMO\Ado_Net\AdoNet_Lab6_ LoadDataSetXml\obj\Debug\AdoNet_Lab6_ LoadDataSetXml.csproj.GenerateResource.cache
+E:\ITMO\Ado_Net\AdoNet_Lab6_ LoadDataSetXml\obj\Debug\AdoNet_Lab6_ LoadDataSetXml.exe
+E:\ITMO\Ado_Net\AdoNet_Lab6_ LoadDataSetXml\obj\Debug\AdoNet_Lab6_ LoadDataSetXml.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab6_ LoadDataSetXml\obj\Debug\AdoNet_Lab6_ LoadDataSetXml.csprojAssemblyReference.cache

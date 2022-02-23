@@ -1,0 +1,8 @@
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataSourcesWizard\bin\Debug\AdoNet_Lab5_DataSourcesWizard.exe.config
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataSourcesWizard\bin\Debug\AdoNet_Lab5_DataSourcesWizard.exe
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataSourcesWizard\bin\Debug\AdoNet_Lab5_DataSourcesWizard.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataSourcesWizard\obj\Debug\AdoNet_Lab5_DataSourcesWizard.Form1.resources
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataSourcesWizard\obj\Debug\AdoNet_Lab5_DataSourcesWizard.Properties.Resources.resources
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataSourcesWizard\obj\Debug\AdoNet_Lab5_DataSourcesWizard.csproj.GenerateResource.cache
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataSourcesWizard\obj\Debug\AdoNet_Lab5_DataSourcesWizard.exe
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataSourcesWizard\obj\Debug\AdoNet_Lab5_DataSourcesWizard.pdb

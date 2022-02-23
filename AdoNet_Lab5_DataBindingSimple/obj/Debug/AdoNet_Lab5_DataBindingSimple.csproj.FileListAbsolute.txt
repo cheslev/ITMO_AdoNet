@@ -1,0 +1,8 @@
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataBindingSimple\bin\Debug\AdoNet_Lab5_DataBindingSimple.exe.config
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataBindingSimple\bin\Debug\AdoNet_Lab5_DataBindingSimple.exe
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataBindingSimple\bin\Debug\AdoNet_Lab5_DataBindingSimple.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataBindingSimple\obj\Debug\AdoNet_Lab5_DataBindingSimple.Properties.Resources.resources
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataBindingSimple\obj\Debug\AdoNet_Lab5_DataBindingSimple.csproj.GenerateResource.cache
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataBindingSimple\obj\Debug\AdoNet_Lab5_DataBindingSimple.exe
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataBindingSimple\obj\Debug\AdoNet_Lab5_DataBindingSimple.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataBindingSimple\obj\Debug\AdoNet_Lab5_DataBindingSimple.Form1.resources

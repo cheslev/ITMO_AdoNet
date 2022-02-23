@@ -1,0 +1,9 @@
+E:\ITMO\Ado_Net\AdoNet_Lab3_DBCommand\bin\Debug\AdoNet_Lab3_DBCommand.exe.config
+E:\ITMO\Ado_Net\AdoNet_Lab3_DBCommand\bin\Debug\AdoNet_Lab3_DBCommand.exe
+E:\ITMO\Ado_Net\AdoNet_Lab3_DBCommand\bin\Debug\AdoNet_Lab3_DBCommand.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab3_DBCommand\obj\Debug\AdoNet_Lab3_DBCommand.csprojAssemblyReference.cache
+E:\ITMO\Ado_Net\AdoNet_Lab3_DBCommand\obj\Debug\AdoNet_Lab3_DBCommand.Form1.resources
+E:\ITMO\Ado_Net\AdoNet_Lab3_DBCommand\obj\Debug\AdoNet_Lab3_DBCommand.Properties.Resources.resources
+E:\ITMO\Ado_Net\AdoNet_Lab3_DBCommand\obj\Debug\AdoNet_Lab3_DBCommand.csproj.GenerateResource.cache
+E:\ITMO\Ado_Net\AdoNet_Lab3_DBCommand\obj\Debug\AdoNet_Lab3_DBCommand.exe
+E:\ITMO\Ado_Net\AdoNet_Lab3_DBCommand\obj\Debug\AdoNet_Lab3_DBCommand.pdb

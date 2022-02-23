@@ -1,0 +1,8 @@
+E:\ITMO\Ado_Net\AdoNet_Lab4_DataAdapterWizard\bin\Debug\AdoNet_Lab4_DataAdapterWizard.exe.config
+E:\ITMO\Ado_Net\AdoNet_Lab4_DataAdapterWizard\bin\Debug\AdoNet_Lab4_DataAdapterWizard.exe
+E:\ITMO\Ado_Net\AdoNet_Lab4_DataAdapterWizard\bin\Debug\AdoNet_Lab4_DataAdapterWizard.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab4_DataAdapterWizard\obj\Debug\AdoNet_Lab4_DataAdapterWizard.Form1.resources
+E:\ITMO\Ado_Net\AdoNet_Lab4_DataAdapterWizard\obj\Debug\AdoNet_Lab4_DataAdapterWizard.Properties.Resources.resources
+E:\ITMO\Ado_Net\AdoNet_Lab4_DataAdapterWizard\obj\Debug\AdoNet_Lab4_DataAdapterWizard.csproj.GenerateResource.cache
+E:\ITMO\Ado_Net\AdoNet_Lab4_DataAdapterWizard\obj\Debug\AdoNet_Lab4_DataAdapterWizard.exe
+E:\ITMO\Ado_Net\AdoNet_Lab4_DataAdapterWizard\obj\Debug\AdoNet_Lab4_DataAdapterWizard.pdb

@@ -1,0 +1,9 @@
+E:\ITMO\Ado_Net\AdoNet_Lab4_DatasetDesigner\bin\Debug\AdoNet_Lab4_DatasetDesigner.exe.config
+E:\ITMO\Ado_Net\AdoNet_Lab4_DatasetDesigner\bin\Debug\AdoNet_Lab4_DatasetDesigner.exe
+E:\ITMO\Ado_Net\AdoNet_Lab4_DatasetDesigner\bin\Debug\AdoNet_Lab4_DatasetDesigner.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab4_DatasetDesigner\obj\Debug\AdoNet_Lab4_DatasetDesigner.csprojAssemblyReference.cache
+E:\ITMO\Ado_Net\AdoNet_Lab4_DatasetDesigner\obj\Debug\AdoNet_Lab4_DatasetDesigner.Properties.Resources.resources
+E:\ITMO\Ado_Net\AdoNet_Lab4_DatasetDesigner\obj\Debug\AdoNet_Lab4_DatasetDesigner.csproj.GenerateResource.cache
+E:\ITMO\Ado_Net\AdoNet_Lab4_DatasetDesigner\obj\Debug\AdoNet_Lab4_DatasetDesigner.exe
+E:\ITMO\Ado_Net\AdoNet_Lab4_DatasetDesigner\obj\Debug\AdoNet_Lab4_DatasetDesigner.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab4_DatasetDesigner\obj\Debug\AdoNet_Lab4_DatasetDesigner.Form1.resources

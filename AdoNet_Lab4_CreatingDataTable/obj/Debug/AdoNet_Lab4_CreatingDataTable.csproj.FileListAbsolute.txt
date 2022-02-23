@@ -1,0 +1,8 @@
+E:\ITMO\Ado_Net\AdoNet_Lab4_CreatingDataTable\obj\Debug\AdoNet_Lab4_CreatingDataTable.Form1.resources
+E:\ITMO\Ado_Net\AdoNet_Lab4_CreatingDataTable\obj\Debug\AdoNet_Lab4_CreatingDataTable.Properties.Resources.resources
+E:\ITMO\Ado_Net\AdoNet_Lab4_CreatingDataTable\obj\Debug\AdoNet_Lab4_CreatingDataTable.csproj.GenerateResource.cache
+E:\ITMO\Ado_Net\AdoNet_Lab4_CreatingDataTable\bin\Debug\AdoNet_Lab4_CreatingDataTable.exe.config
+E:\ITMO\Ado_Net\AdoNet_Lab4_CreatingDataTable\bin\Debug\AdoNet_Lab4_CreatingDataTable.exe
+E:\ITMO\Ado_Net\AdoNet_Lab4_CreatingDataTable\bin\Debug\AdoNet_Lab4_CreatingDataTable.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab4_CreatingDataTable\obj\Debug\AdoNet_Lab4_CreatingDataTable.exe
+E:\ITMO\Ado_Net\AdoNet_Lab4_CreatingDataTable\obj\Debug\AdoNet_Lab4_CreatingDataTable.pdb

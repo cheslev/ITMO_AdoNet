@@ -1,0 +1,9 @@
+E:\ITMO\Ado_Net\AdoNet_Lab1_DBConnection\bin\Debug\AdoNet_Lab1_DBConnection.exe.config
+E:\ITMO\Ado_Net\AdoNet_Lab1_DBConnection\bin\Debug\AdoNet_Lab1_DBConnection.exe
+E:\ITMO\Ado_Net\AdoNet_Lab1_DBConnection\bin\Debug\AdoNet_Lab1_DBConnection.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab1_DBConnection\obj\Debug\AdoNet_Lab1_DBConnection.csprojAssemblyReference.cache
+E:\ITMO\Ado_Net\AdoNet_Lab1_DBConnection\obj\Debug\AdoNet_Lab1_DBConnection.DBConnection.resources
+E:\ITMO\Ado_Net\AdoNet_Lab1_DBConnection\obj\Debug\AdoNet_Lab1_DBConnection.Properties.Resources.resources
+E:\ITMO\Ado_Net\AdoNet_Lab1_DBConnection\obj\Debug\AdoNet_Lab1_DBConnection.csproj.GenerateResource.cache
+E:\ITMO\Ado_Net\AdoNet_Lab1_DBConnection\obj\Debug\AdoNet_Lab1_DBConnection.exe
+E:\ITMO\Ado_Net\AdoNet_Lab1_DBConnection\obj\Debug\AdoNet_Lab1_DBConnection.pdb

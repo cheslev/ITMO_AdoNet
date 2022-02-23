@@ -1,0 +1,9 @@
+E:\ITMO\Ado_Net\AdoNet_Lab6_SavingDataSetXml\bin\Debug\AdoNet_Lab6_SavingDataSetXml.exe.config
+E:\ITMO\Ado_Net\AdoNet_Lab6_SavingDataSetXml\bin\Debug\AdoNet_Lab6_SavingDataSetXml.exe
+E:\ITMO\Ado_Net\AdoNet_Lab6_SavingDataSetXml\bin\Debug\AdoNet_Lab6_SavingDataSetXml.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab6_SavingDataSetXml\obj\Debug\AdoNet_Lab6_SavingDataSetXml.csprojAssemblyReference.cache
+E:\ITMO\Ado_Net\AdoNet_Lab6_SavingDataSetXml\obj\Debug\AdoNet_Lab6_SavingDataSetXml.Form1.resources
+E:\ITMO\Ado_Net\AdoNet_Lab6_SavingDataSetXml\obj\Debug\AdoNet_Lab6_SavingDataSetXml.Properties.Resources.resources
+E:\ITMO\Ado_Net\AdoNet_Lab6_SavingDataSetXml\obj\Debug\AdoNet_Lab6_SavingDataSetXml.csproj.GenerateResource.cache
+E:\ITMO\Ado_Net\AdoNet_Lab6_SavingDataSetXml\obj\Debug\AdoNet_Lab6_SavingDataSetXml.exe
+E:\ITMO\Ado_Net\AdoNet_Lab6_SavingDataSetXml\obj\Debug\AdoNet_Lab6_SavingDataSetXml.pdb

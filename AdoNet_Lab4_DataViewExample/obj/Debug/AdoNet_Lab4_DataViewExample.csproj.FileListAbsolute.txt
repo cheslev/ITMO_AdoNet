@@ -1,0 +1,8 @@
+E:\ITMO\Ado_Net\AdoNet_Lab4_DataViewExample\bin\Debug\AdoNet_Lab4_DataViewExample.exe.config
+E:\ITMO\Ado_Net\AdoNet_Lab4_DataViewExample\bin\Debug\AdoNet_Lab4_DataViewExample.exe
+E:\ITMO\Ado_Net\AdoNet_Lab4_DataViewExample\bin\Debug\AdoNet_Lab4_DataViewExample.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab4_DataViewExample\obj\Debug\AdoNet_Lab4_DataViewExample.Form1.resources
+E:\ITMO\Ado_Net\AdoNet_Lab4_DataViewExample\obj\Debug\AdoNet_Lab4_DataViewExample.Properties.Resources.resources
+E:\ITMO\Ado_Net\AdoNet_Lab4_DataViewExample\obj\Debug\AdoNet_Lab4_DataViewExample.csproj.GenerateResource.cache
+E:\ITMO\Ado_Net\AdoNet_Lab4_DataViewExample\obj\Debug\AdoNet_Lab4_DataViewExample.exe
+E:\ITMO\Ado_Net\AdoNet_Lab4_DataViewExample\obj\Debug\AdoNet_Lab4_DataViewExample.pdb
