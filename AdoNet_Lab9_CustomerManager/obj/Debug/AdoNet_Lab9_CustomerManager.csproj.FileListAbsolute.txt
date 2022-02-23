@@ -1,0 +1,17 @@
+E:\ITMO\Ado_Net\AdoNet_Lab9_CustomerManager\bin\Debug\AdoNet_Lab9_CustomerManager.exe.config
+E:\ITMO\Ado_Net\AdoNet_Lab9_CustomerManager\bin\Debug\AdoNet_Lab9_CustomerManager.exe
+E:\ITMO\Ado_Net\AdoNet_Lab9_CustomerManager\bin\Debug\AdoNet_Lab9_CustomerManager.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab9_CustomerManager\obj\Debug\AdoNet_Lab9_CustomerManager.CustomerViewer.resources
+E:\ITMO\Ado_Net\AdoNet_Lab9_CustomerManager\obj\Debug\AdoNet_Lab9_CustomerManager.Properties.Resources.resources
+E:\ITMO\Ado_Net\AdoNet_Lab9_CustomerManager\obj\Debug\AdoNet_Lab9_CustomerManager.csproj.GenerateResource.cache
+E:\ITMO\Ado_Net\AdoNet_Lab9_CustomerManager\obj\Debug\AdoNet_Lab9_CustomerManager.exe
+E:\ITMO\Ado_Net\AdoNet_Lab9_CustomerManager\obj\Debug\AdoNet_Lab9_CustomerManager.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab9_CustomerManager\obj\Debug\AdoNet_Lab9_CustomerManager.csprojAssemblyReference.cache
+E:\ITMO\Ado_Net\AdoNet_Lab9_CustomerManager\bin\Debug\CodeFirst.dll
+E:\ITMO\Ado_Net\AdoNet_Lab9_CustomerManager\bin\Debug\EntityFramework.dll
+E:\ITMO\Ado_Net\AdoNet_Lab9_CustomerManager\bin\Debug\EntityFramework.SqlServer.dll
+E:\ITMO\Ado_Net\AdoNet_Lab9_CustomerManager\bin\Debug\CodeFirst.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab9_CustomerManager\bin\Debug\CodeFirst.dll.config
+E:\ITMO\Ado_Net\AdoNet_Lab9_CustomerManager\bin\Debug\EntityFramework.xml
+E:\ITMO\Ado_Net\AdoNet_Lab9_CustomerManager\bin\Debug\EntityFramework.SqlServer.xml
+E:\ITMO\Ado_Net\AdoNet_Lab9_CustomerManager\obj\Debug\AdoNet_Lab9_CustomerManager.csproj.CopyComplete

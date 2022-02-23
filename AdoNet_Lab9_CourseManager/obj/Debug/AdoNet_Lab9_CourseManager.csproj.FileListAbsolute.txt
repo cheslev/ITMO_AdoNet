@@ -1,0 +1,15 @@
+E:\ITMO\Ado_Net\AdoNet_Lab9_CourseManager\bin\Debug\AdoNet_Lab9_CourseManager.exe.config
+E:\ITMO\Ado_Net\AdoNet_Lab9_CourseManager\bin\Debug\AdoNet_Lab9_CourseManager.exe
+E:\ITMO\Ado_Net\AdoNet_Lab9_CourseManager\bin\Debug\AdoNet_Lab9_CourseManager.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab9_CourseManager\obj\Debug\AdoNet_Lab9_CourseManager.csprojAssemblyReference.cache
+E:\ITMO\Ado_Net\AdoNet_Lab9_CourseManager\obj\Debug\AdoNet_Lab9_CourseManager.CourseViewer.resources
+E:\ITMO\Ado_Net\AdoNet_Lab9_CourseManager\obj\Debug\AdoNet_Lab9_CourseManager.Properties.Resources.resources
+E:\ITMO\Ado_Net\AdoNet_Lab9_CourseManager\obj\Debug\AdoNet_Lab9_CourseManager.csproj.GenerateResource.cache
+E:\ITMO\Ado_Net\AdoNet_Lab9_CourseManager\obj\Debug\AdoNet_Lab9_CourseManager.exe
+E:\ITMO\Ado_Net\AdoNet_Lab9_CourseManager\obj\Debug\AdoNet_Lab9_CourseManager.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab9_CourseManager\bin\Debug\EntityFramework.dll
+E:\ITMO\Ado_Net\AdoNet_Lab9_CourseManager\bin\Debug\EntityFramework.SqlServer.dll
+E:\ITMO\Ado_Net\AdoNet_Lab9_CourseManager\bin\Debug\EntityFramework.xml
+E:\ITMO\Ado_Net\AdoNet_Lab9_CourseManager\bin\Debug\EntityFramework.SqlServer.xml
+E:\ITMO\Ado_Net\AdoNet_Lab9_CourseManager\bin\Debug\ru\EntityFramework.resources.dll
+E:\ITMO\Ado_Net\AdoNet_Lab9_CourseManager\obj\Debug\AdoNet_Lab9_CourseManager.csproj.CopyComplete
