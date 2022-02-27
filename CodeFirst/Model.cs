@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 
 namespace CodeFirst
@@ -18,19 +20,35 @@ namespace CodeFirst
         { }
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Order> Orders { get; set; }
+
+        public DbSet<VipOrder> VipOrders { get; set; }
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Customer>()
+            .Property(c =>
+           c.LastName).IsRequired().HasMaxLength(30);
+        }
+
     }
 }
 
 public class Customer
     {
         public int CustomerId { get; set; }
-        public string Name { get; set; }
-        public string Email { get; set; }
+        [Required]
+    [MaxLength(30)]
+    public string FirstName { get; set; }
+    public string LastName { get; set; }
+
+    [MaxLength(100)]
+         public string Email { get; set; }
+         [Range(8, 100)]
         public int Age { get; set; }
-        public byte[] Photo { get; set; }
+         [Column(TypeName = "image")]
+    public byte[] Photo { get; set; }
         public override string ToString()
         {
-            string s = Name + ", электронный адрес: " + Email;
+            string s = FirstName + ", электронный адрес: " + Email;
             return s;
         }
         // Ссылка на заказы
@@ -57,4 +75,9 @@ public class Customer
             return s;
         }
     }
+public class VipOrder : Order
+{
+    public string status { get; set; }
+}
+
 

@@ -6,3 +6,4 @@ E:\ITMO\Ado_Net\AdoNet_Lab4_CreatingDataTable\bin\Debug\AdoNet_Lab4_CreatingData
 E:\ITMO\Ado_Net\AdoNet_Lab4_CreatingDataTable\bin\Debug\AdoNet_Lab4_CreatingDataTable.pdb
 E:\ITMO\Ado_Net\AdoNet_Lab4_CreatingDataTable\obj\Debug\AdoNet_Lab4_CreatingDataTable.exe
 E:\ITMO\Ado_Net\AdoNet_Lab4_CreatingDataTable\obj\Debug\AdoNet_Lab4_CreatingDataTable.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab4_CreatingDataTable\obj\Debug\AdoNet_Lab4_CreatingDataTable.csprojAssemblyReference.cache

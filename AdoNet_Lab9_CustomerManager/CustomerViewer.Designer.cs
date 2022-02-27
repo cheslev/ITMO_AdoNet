@@ -49,6 +49,9 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
+            this.backgroundWorker2 = new System.ComponentModel.BackgroundWorker();
+            this.ViporderradioButton = new System.Windows.Forms.RadioButton();
             ((System.ComponentModel.ISupportInitialize)(this.GridView)).BeginInit();
             this.SuspendLayout();
             // 
@@ -125,6 +128,7 @@
             this.buttonOut.TabIndex = 8;
             this.buttonOut.Text = "Показать данные";
             this.buttonOut.UseVisualStyleBackColor = true;
+            this.buttonOut.Click += new System.EventHandler(this.buttonOut_Click);
             // 
             // buttonEdit
             // 
@@ -134,6 +138,7 @@
             this.buttonEdit.TabIndex = 9;
             this.buttonEdit.Text = "Редактировать";
             this.buttonEdit.UseVisualStyleBackColor = true;
+            this.buttonEdit.Click += new System.EventHandler(this.buttonEdit_Click);
             // 
             // buttonDel
             // 
@@ -143,6 +148,7 @@
             this.buttonDel.TabIndex = 10;
             this.buttonDel.Text = "Удалить";
             this.buttonDel.UseVisualStyleBackColor = true;
+            this.buttonDel.Click += new System.EventHandler(this.buttonDel_Click);
             // 
             // CustomerradioButton
             // 
@@ -158,13 +164,14 @@
             // OrderradioButton
             // 
             this.OrderradioButton.AutoSize = true;
-            this.OrderradioButton.Location = new System.Drawing.Point(608, 130);
+            this.OrderradioButton.Location = new System.Drawing.Point(490, 130);
             this.OrderradioButton.Name = "OrderradioButton";
             this.OrderradioButton.Size = new System.Drawing.Size(56, 17);
             this.OrderradioButton.TabIndex = 12;
             this.OrderradioButton.TabStop = true;
             this.OrderradioButton.Text = "Orders";
             this.OrderradioButton.UseVisualStyleBackColor = true;
+            this.OrderradioButton.CheckedChanged += new System.EventHandler(this.OrderradioButton_CheckedChanged);
             // 
             // textBoxCustomer
             // 
@@ -190,6 +197,7 @@
             this.GridView.Name = "GridView";
             this.GridView.Size = new System.Drawing.Size(800, 222);
             this.GridView.TabIndex = 15;
+            this.GridView.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.GridView_CellContentClick);
             // 
             // label1
             // 
@@ -237,11 +245,24 @@
             this.label5.TabIndex = 20;
             this.label5.Text = "Фото";
             // 
+            // ViporderradioButton
+            // 
+            this.ViporderradioButton.AutoSize = true;
+            this.ViporderradioButton.Location = new System.Drawing.Point(591, 130);
+            this.ViporderradioButton.Name = "ViporderradioButton";
+            this.ViporderradioButton.Size = new System.Drawing.Size(85, 17);
+            this.ViporderradioButton.TabIndex = 21;
+            this.ViporderradioButton.TabStop = true;
+            this.ViporderradioButton.Text = "radioButton1";
+            this.ViporderradioButton.UseVisualStyleBackColor = true;
+            this.ViporderradioButton.CheckedChanged += new System.EventHandler(this.ViporderradioButton_CheckedChanged);
+            // 
             // CustomerViewer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.ViporderradioButton);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -295,6 +316,9 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
+        private System.ComponentModel.BackgroundWorker backgroundWorker2;
+        private System.Windows.Forms.RadioButton ViporderradioButton;
     }
 }
 
